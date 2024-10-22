@@ -35,7 +35,7 @@ The calculated PRS is used as the independent instrumental variable (IV) for Men
 **Python Version**: Python/3.8.6-GCCcore-10.2.0  
 
 ### R Packages
-- `CorBin`
+- `CorBin[1]`
 - `MASS`
 - `MendelianRandomization`
 - `sisVIVE`
@@ -45,14 +45,14 @@ The calculated PRS is used as the independent instrumental variable (IV) for Men
 
 
 ### Python Package
-- `LDpred`
+- `LDpred[2]`
 - `SciPy-bundle/2020.11-foss-2020b`
 
 
-## Reference
-Jiang, W., Song, S., Hou, L., & Zhao, H. (Version 1.0.0). Generate High-Dimensional Binary Data with Correlation Structures. [(R package)](https://cran.r-project.org/web/packages/CorBin/index.html)
+## Package Reference
+[1] Jiang, W., Song, S., Hou, L., & Zhao, H. (Version 1.0.0). Generate High-Dimensional Binary Data with Correlation Structures. [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
 
-Vilhjálmsson, Bjarni J., Stephan Ripke, Peter Kraft, et al. Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores. The American Journal of Human Genetics, vol. 97, no. 4, 2015, pp. 576-592.
+[2] Vilhjálmsson, Bjarni J., Stephan Ripke, Peter Kraft, et al. Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores. The American Journal of Human Genetics, vol. 97, no. 4, 2015, pp. 576-592.
 [(LDpred GitHub)](https://github.com/bvilhjal/ldpred)
 
 ## Noted
