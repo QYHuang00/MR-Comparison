@@ -46,7 +46,7 @@ The calculated PRS is used as the independent instrumental variable (IV) for sub
 - `genio`
 
 
-### Python Package
+### Python Packages
 - `LDpred[2]`
 - `SciPy-bundle/2020.11-foss-2020b`
 
