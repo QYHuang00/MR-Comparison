@@ -24,7 +24,7 @@ The MR methods evaluated include:
 - `mr_egger`
 - `mr_raps`
 
-The PRS Methods used:
+The PRS Methods evaluated include:
 - `PRS_PT`
 - `PRS_Oracle`
 - `PRS_LDPred`
