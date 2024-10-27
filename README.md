@@ -56,7 +56,7 @@ The calculated PRS is used as the independent instrumental variable (IV) for sub
 
 Jiang, Wei, Shuang Song, Lin Hou, and Hongyu Zhao. "A Set of Efficient Methods to Generate High-Dimensional Binary Data with Specified Correlation Structures." The American Statistician, Version 1.0.0, published 2020-11-14. R CorBin package, DOI: 10.32614/CRAN.package.CorBin. [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
 
-Jiang, W., Song, S., Hou, L., & Zhao, H. (2020). A Set of Efficient Methods to Generate High-Dimensional Binary Data With Specified Correlation Structures. The American Statistician, 75(3), 310–322. https://doi.org/10.1080/00031305.2020.1816213 [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
+Jiang, W., Song, S., Hou, L., & Zhao, H. (2020). A Set of Efficient Methods to Generate High-Dimensional Binary Data With Specified Correlation Structures. The American Statistician, 75(3), 310–322. https://doi.org/10.1080/00031305.2020.1816213  [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
 
 （哪个好一点？）
 
