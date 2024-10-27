@@ -1,8 +1,10 @@
 # Systematic Comparison of Mendelian Randomization Methods
 
 ## Project Overview
+This repository hosts code for a project designed to evaluate and compare a unique set of Mendelian Randomization (MR) methods and Polygenic Risk Score(PRS) methods across diverse scenarios, including both simulations and real-world data. The project examines common and challenging conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
 
-This repository hosts a code sample for a project aimed at evaluating and comparing different Mendelian Randomization (MR) methods using individual-level or summary statistics from GWAS. The project includes simulations to evaluate the performance of a distinct set of MR methods under diverse scenarios, including common and extreme conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
+## Noted：Sample code is subset of whole project
+In a practical project, approximately ten scripts would execute concurrently due to the large scale of the process. This GitHub repository serves only as a code sample and contains a subset of scripts intended to illustrate the overall workflow. The full codebase would be considerably larger than the example provided here.
 
 ### Goals
 
@@ -55,6 +57,5 @@ The calculated PRS is used as the independent instrumental variable (IV) for Men
 [2] Vilhjálmsson, Bjarni J., Stephan Ripke, Peter Kraft, et al. Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores. The American Journal of Human Genetics, vol. 97, no. 4, 2015, pp. 576-592.
 [(LDpred GitHub)](https://github.com/bvilhjal/ldpred)
 
-## Noted
-In a practical project, approximately ten scripts would execute concurrently due to the large scale of the process. This GitHub repository serves as a code sample and contains a subset of scripts intended to illustrate the overall workflow. The full codebase would be considerably larger than the example provided here.
+
 
