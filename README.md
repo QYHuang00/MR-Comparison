@@ -3,16 +3,16 @@
 ## Project Overview
 This repository hosts code for a project designed to evaluate and compare a unique set of Mendelian Randomization (MR) methods and Polygenic Risk Score (PRS) methods across diverse scenarios, including both simulations and real-world data. The project examines common and challenging conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
 
-## Noted：Sample code is subset of whole project
+## Noted：sample code is a subset of whole project
 In Practical Project Implementation, additional code and more complex processes are involved. Displaying everything would make this GitHub project overly complex and less intuitive. Therefore, this repository includes only a selected subset of scripts intended to illustrate the overall workflow.The full codebase would be considerably larger than the example provided here.
 
 ### Goals
 
-- Simulate data from scratch.
+- Simulate data.
 - Calculate the estimated MR effects.
 - Compare the performance of various MR and PRS methods under different conditions.
 
-### Methods
+### Methods to be Assessed
 
 The MR methods evaluated include:
 - `mr_sisVIVE`
@@ -29,7 +29,7 @@ The PRS Methods used:
 - `PRS_Oracle`
 - `PRS_LDPred`
 
-The calculated PRS is used as the independent instrumental variable (IV) for Mendelian Randomization.
+The calculated PRS is used as the independent instrumental variable (IV) for subsequent Mendelian Randomization analyses.
 
 ## Software and Key Packages
 
