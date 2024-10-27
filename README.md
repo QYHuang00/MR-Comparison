@@ -1,10 +1,10 @@
 # Systematic Comparison of Mendelian Randomization Methods
 
 ## Project Overview
-This repository hosts code for a project designed to evaluate and compare a unique set of Mendelian Randomization (MR) methods and Polygenic Risk Score(PRS) methods across diverse scenarios, including both simulations and real-world data. The project examines common and challenging conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
+This repository hosts code for a project designed to evaluate and compare a unique set of Mendelian Randomization (MR) methods and Polygenic Risk Score (PRS) methods across diverse scenarios, including both simulations and real-world data. The project examines common and challenging conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
 
 ## Noted：Sample code is subset of whole project
-In a practical project, approximately ten scripts would execute concurrently due to the large scale of the process. This GitHub repository serves only as a code sample and contains a subset of scripts intended to illustrate the overall workflow. The full codebase would be considerably larger than the example provided here.
+In Practical Project Implementation, additional code and more complex processes are involved. Displaying everything would make this GitHub project overly complex and less intuitive. Therefore, this repository includes only a selected subset of scripts intended to illustrate the overall workflow.The full codebase would be considerably larger than the example provided here.
 
 ### Goals
 
