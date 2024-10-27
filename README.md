@@ -12,6 +12,9 @@ In practical project implementation, additional code and more complex processes 
 - Calculate the estimated MR effects.
 - Compare the performance of various MR and PRS methods under different conditions.
 
+### Code Flowchart
+![Code Flowchart](Figs/Code_flochart.jpg)
+
 ### Methods to be Assessed
 
 The MR methods evaluated include:
