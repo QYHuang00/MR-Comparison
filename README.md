@@ -3,7 +3,7 @@
 ## Project Overview
 This repository hosts code for a project designed to evaluate and compare a unique set of Mendelian Randomization (MR) methods and Polygenic Risk Score (PRS) methods across diverse scenarios, including both simulations and real-world data. The project examines common and challenging conditions such as weak instruments, linkage disequilibrium, and pleiotropy.
 
-## Noted：sample code is a subset of whole project
+## Noted：Sample Code is a Subset of Whole Project
 In Practical Project Implementation, additional code and more complex processes are involved. Displaying everything would make this GitHub project overly complex and less intuitive. Therefore, this repository includes only a selected subset of scripts intended to illustrate the overall workflow.The full codebase would be considerably larger than the example provided here.
 
 ### Goals
@@ -51,7 +51,7 @@ The calculated PRS is used as the independent instrumental variable (IV) for sub
 - `SciPy-bundle/2020.11-foss-2020b`
 
 
-## Package Reference
+## Package References
 [1] Jiang, W., Song, S., Hou, L., & Zhao, H. (Version 1.0.0). Generate High-Dimensional Binary Data with Correlation Structures. [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
 
 [2] Vilhjálmsson, Bjarni J., Stephan Ripke, Peter Kraft, et al. Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores. The American Journal of Human Genetics, vol. 97, no. 4, 2015, pp. 576-592.
