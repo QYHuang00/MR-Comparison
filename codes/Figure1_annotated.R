@@ -16,6 +16,7 @@ PRS_ldpred_mean <- PRS_ldpred_se <- c()
 
 
 # Loop through iterations to load data and calculate means and standard errors for each method
+# Although a loop could simplify the code, I list methods individually here to facilitate debugging, allowing quick adjustments if an issue arises with any specific method.
 for(count in 1:5){
   
   mr_sisVIVE_mean <- cbind(mr_sisVIVE_mean, lapply(Sys.glob(paste0("mr_sisVIVE_",count,".txt")),read.table)[[1]]$beta[1:100])
