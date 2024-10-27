@@ -13,7 +13,7 @@ In practical project implementation, additional code and more complex processes 
 - Compare the performance of various MR and PRS methods under different conditions.
 
 ### Code Flowchart
-![Code Flowchart](./Figs/Code_flochart.jpg)
+![Code Flowchart](./Figs/Code_flowchart.jpg)
 
 ### Methods to be Assessed
 
