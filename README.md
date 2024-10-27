@@ -61,7 +61,7 @@ Jiang, Wei, Shuang Song, Lin Hou, and Hongyu Zhao. "A Set of Efficient Methods t
 
 Jiang, W., Song, S., Hou, L., & Zhao, H. (2020). A Set of Efficient Methods to Generate High-Dimensional Binary Data With Specified Correlation Structures. The American Statistician, 75(3), 310–322. https://doi.org/10.1080/00031305.2020.1816213  [(R CorBin package)](https://cran.r-project.org/web/packages/CorBin/index.html)
 
-（哪个好一点？Fu: 都可以（我个人偏向于第三个），核心点是需要上下两个reference的格式一致即可~）
+（哪个好一点？Fu: 都可以（我个人偏向于第三个，且不用加DOI，就是把https那个doi链接去掉），核心点是需要上下两个reference的格式一致即可~）
 
 [2] Vilhjálmsson, Bjarni J., Stephan Ripke, Peter Kraft, et al. Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores. The American Journal of Human Genetics, vol. 97, no. 4, 2015, pp. 576-592.
 [(LDpred GitHub)](https://github.com/bvilhjal/ldpred)
